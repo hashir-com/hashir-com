@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashir</h1>
+<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 
-<!--
-**hashir-com/hashir-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- Dedicated **Flutter developer** building intuitive, high-performance mobile apps.  
+- Skilled in **Dart**, **clean architecture**, and managing app lifecycles.  
+- Currently working on a **camera + gallery app**, and exploring **state-management**, **modular design**, and **single-user flows**.  
+- Passionate about learning from scratch: diving deep into fundamentals, real-life analogies, building practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+### Languages  
+- Dart  
+- JavaScript (basic)  
+- SQL  
+
+### Frameworks & Tools  
+- Flutter (Material 3, Riverpod / Provider / BLoC)  
+- Firebase (Auth, Firestore, Storage)  
+- REST APIs  
+- Git & GitHub  
+- VS Code  
+
+### Concepts & Methods  
+- State Management & Clean Architecture  
+- Asynchronous programming: Futures, Streams  
+- App Deployment: APK / AAB  
+- UI/UX Design & Performance Optimization  
+
+---
+
+## 📚 Currently Learning  
+- Advanced Flutter animations & custom transitions  
+- Design patterns specific to mobile development  
+- Basics of Machine Learning (for mobile integrations)  
+
+---
+
+## 🔧 Featured Projects  
+- **[Project Name 1](link-to-repo)** – Short description: what it does, technologies used, unique value.  
+- **[Project Name 2](link-to-repo)** – …  
+  *(you’ll fill this with your repos)*  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashir-com&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-com&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🤝 Connect With Me  
+- GitHub: [github.com/hashir-com](https://github.com/hashir-com)  
+- LinkedIn: *(add your LinkedIn link)*  
+- Twitter / Portfolio: *(optional)*  
+
+---
+
