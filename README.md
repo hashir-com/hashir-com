@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./git banner.jpg" alt="banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 
